@@ -1,9 +1,9 @@
 This device consists of three parts. STL files can be sliced and 3D printed.
 
-Print these files:
-- DATAA_part1.stl
-- DATAA_part2.stl
-- DATAA_part3.stl
+**Print these files**:
+- **DATAA_part1.stl**
+- **DATAA_part2.stl**
+- **DATAA_part3.stl**
 
 To manufacture and 
 
