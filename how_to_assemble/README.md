@@ -18,8 +18,11 @@ This device is comprised of 3D printed PLA and various electronic parts.
   * _Arduino Uno_
   * _Male and female jumper wires_
   * _5V power supply module_
-  * _9V battery module
+  * _9V battery module_
 * _[HX711 load cell amplifier](https://www.amazon.com/gp/product/B07MY2PBY4/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1)
+* _[Metric screws and nuts](https://www.amazon.com/gp/product/B07HVRJW5J/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&th=1)
+  * 4 count M2x12
+  * 2 count M3x8
 
 ***Skills Needed:***
 * Ability to solder
