@@ -20,7 +20,7 @@ This device is comprised of 3D printed PLA and various electronic parts.
   * _5V power supply module_
   * _9V battery module_
 * _[HX711 load cell amplifier](https://www.amazon.com/gp/product/B07MY2PBY4/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1)_
-* _[Metric screws and nuts](https://www.amazon.com/gp/product/B07HVRJW5J/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&th=1)_
+* _[Metric bolts and nuts](https://www.amazon.com/gp/product/B07HVRJW5J/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&th=1)_
   * 4 count M2x12
   * 2 count M3x8
 
@@ -32,3 +32,11 @@ This device is comprised of 3D printed PLA and various electronic parts.
 
 ## Manufacturing Process
 After the materials and electronic parts are acquired, there are two manufacturing procedures: (1) 3D print the [cad_files](https://github.com/ncan33/DATAA-2019/tree/master/cad_files), (2) solder the [circuit](https://github.com/ncan33/DATAA-2019/tree/master/circuit).
+
+After the circuit is soldered, protect the brittle load cell wires with heat-shrink tubes (optional).
+
+## Assembly Process
+1. Fasten `part3.stl` to the load cell using two M3x8 bolt and nut
+2. Fasten `part1.stl` and `part2.stl` to the load cell using four M2x12 bolt and nut
+
+Diagrams aren't included because it's extremely easy to assemble this device. Use the [visuals folder](https://github.com/ncan33/DATAA-2019/tree/master/visuals) as a guide during the assembly.
