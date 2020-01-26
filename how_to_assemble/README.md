@@ -1,7 +1,7 @@
 # Manufacturing Guide
 The purpose of this document is to provide instructions on how to manufacture and assemble DATAA.
 
-## Materials and Tools
+# Materials and Tools
 This device is comprised of 3D printed PLA and various electronic parts.
 
 ***Tools Needed***:
@@ -30,12 +30,12 @@ This device is comprised of 3D printed PLA and various electronic parts.
 * Knowledge of basic circuits
 * Basic knowledge of Arduino IDE software
 
-## Manufacturing Process
+# Manufacturing Process
 After the materials and electronic parts are acquired, there are two manufacturing procedures: (1) 3D print the [cad_files](https://github.com/ncan33/DATAA-2019/tree/master/cad_files), (2) solder the [circuit](https://github.com/ncan33/DATAA-2019/tree/master/circuit).
 
 After the circuit is soldered, protect the brittle load cell wires with heat-shrink tubes (optional).
 
-## Assembly Process
+# Assembly Process
 1. Fasten `part3.stl` to the load cell using two M3x8 bolt and nut
 2. Fasten `part1.stl` and `part2.stl` to the load cell using four M2x12 bolt and nut
 
