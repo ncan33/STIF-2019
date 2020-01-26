@@ -12,7 +12,7 @@ This device is comprised of 3D printed PLA and various electronic parts.
 * _Slicer software (i.e. Ultimaker Cura, Slic3r, etc.)_
 
 ***Materials and Parts Needed***
-* _For 3D printer: PLA or ABS filament (PLA recommended)_
+* _3D print material: PLA or ABS filament (PLA recommended)_
 * _[uxcell 5kg Half-bridge Strain Gauge](https://www.amazon.com/dp/B07NRD5969/ref=cm_sw_em_r_mt_dp_U_WzBlEbVYCE79Q)_
 * _[Arduino Kit (the following included)](https://www.amazon.com/ELEGOO-Project-Tutorial-Controller-Projects/dp/B01D8KOZF4/ref=sr_1_2_sspa?keywords=arduino+uno&qid=1580056066&s=electronics&sr=1-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzSVAyUFRQSEtPUzlOJmVuY3J5cHRlZElkPUEwNjIyOTMzMTVYMDlFQ09NV043QSZlbmNyeXB0ZWRBZElkPUEwOTE1MDY2MzhLWVhQOVdMOVNVQiZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)_
   * _Arduino Uno_
