@@ -2,4 +2,4 @@
 
 The folder HX711_Arduino_Library needs to be placed in Arduino IDE's Library folder, or needs to be manually downloaded from the Arduino Libraries Manager located within the IDE.
 
-`HX711_Arduino_Library` is a library taken from: https://github.com/bogde/HX711
+`HX711_Arduino_Library` is taken from: https://github.com/bogde/HX711
