@@ -1,4 +1,4 @@
-This device consists of three parts. STL files can be sliced and 3D printed.
+This device consists of three structural parts. STL files are to be sliced and 3D printed.
 
 ***Print these files***:
 - ***[DATAA_part1.stl](https://github.com/ncan33/DATAA-2019/blob/master/cad_files/DATAA_part1.stl)***
