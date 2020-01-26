@@ -3,7 +3,10 @@
 ## Design Needs
 
 
-## Future Improvements
+## Limitations and Future Improvements
+***Limitations:***
+
+***Future Improvements:***
 - easier adjustability
 - full bridge strain gauge
 - higher accuracy
