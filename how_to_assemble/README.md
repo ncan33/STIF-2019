@@ -10,3 +10,4 @@ This device is comprised of 3D printed PLA and various electronic parts.
   * _Minimum print dimensions: 50x50x120 mm_
   * _PLA (recommended) or ABS filament_
 * _Soldering iron_
+* _Slicer software (i.e. Ultimaker Cura, Slic3r, etc.)
