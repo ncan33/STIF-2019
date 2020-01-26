@@ -11,6 +11,7 @@
 - full bridge strain gauge
 - higher accuracy
 - improve grip
+- improved portability by removing the necessity of a computer
 
 
 this thing is low cost
