@@ -4,6 +4,7 @@ The purpose of this document is to provide instructions on how to manufacture an
 ## Materials and Tools
 This device is comprised of 3D printed PLA and various electronic parts.
 
+<br />
 
 **Tools Needed**:
 * 3D printer
