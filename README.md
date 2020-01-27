@@ -4,7 +4,7 @@ This device measures the amount of force applied during controlled injury on mic
 The strain of an aluminum beam inside the device is measured with two strain gauges. Arduino was used to control the electronics and translate incoming data from the strain gauge.
 
 ## Problem Scope
-In my lab at UR Medical Center, Dr. Kotelsky needed a method for measuring force values while inflicting controlled injuries on mice. Attempts to measure force through non-electronic means were made, however they were unsuccessful.
+Dr. Kotelsky needed a method for measuring force values while inflicting controlled injuries on mice. Attempts to measure force through non-electronic means were made, however they were unsuccessful.
 
 ## Design Requirements
 * Needs to measure and store force data during surgery.
