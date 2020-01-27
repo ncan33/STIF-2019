@@ -8,9 +8,9 @@ After the manufacturing & assembly process, the device must be calibrated otherw
 4. When the readings match the known load, you've successfully calibrated the device.
 5. (optional) Repeat with various loads ranging from 0-10.00 lb to check function.
 
-## Measurement Units
-The units are user defined, default units are pound-force.
+## Measurement Unit
+The measurement unit is user defined, and the default unit is pound-force.
 
-_To define new units:_
+_To define new unit:_
 1. Pick the desired force unit by editing the Arduino code
 2. Recalibrate by following the steps of **How to calibrate** 
