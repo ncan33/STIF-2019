@@ -8,4 +8,4 @@ This device consists of three structural parts. STL files are to be sliced and 3
 For instructions on how to manufacture and assemble the device, refer to the [how_to_assemble](https://github.com/ncan33/DATAA-2019/tree/master/how_to_assemble) folder.
 
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">DATAA (Data Acquisition Tool for Adaptable Application)</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Nejat Can</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
