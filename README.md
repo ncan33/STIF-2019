@@ -5,7 +5,7 @@ Dr. Kotelsky needed a method for measuring force values while inflicting control
 ## Device Function
 This device measures the amount of force applied during controlled injury on mice. The device is used for data collection at a research lab in University of Rochester Medical Center. The CAD files for the 3D printed parts can be edited to achieve applicability for various surgery methods.
 
-The strain of an aluminum beam inside the device is measured with two strain gauges. Arduino was used to control the electronics and translate incoming data from the strain gauge.
+The strain of the aluminum beam inside the device is measured with two strain gauges. Arduino was used to control the electronics and translate incoming data from the strain gauge.
 
 ## Design Requirements
 * Needs to measure and store force data during surgery.
