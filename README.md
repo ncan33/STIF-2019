@@ -28,7 +28,7 @@ All of the design requirements were met. 3D printed PLA comprises the structure 
 **Electronics:**
 Arduino is used to control the electronics and translate incoming data from the strain gauges. The strain gauges are housed in a half-bridge load cell. Measurement range is between 0 to 49.05 Newtons. Two resistors were used to make a full Wheatstone Bridge.
 
-**Manufacturing Cost**
+**Manufacturing Cost:**
 The total cost of the [materials](https://github.com/ncan33/DATAA-2019/tree/master/how_to_assemble#materials-and-tools) is under $75. Currently, 3D printing is commonly accesible at research facilities in developed countries. Thus, with the cost and tools taken into account, this is a device that is easy to manufacture.
 
 ## Limitations and Future Improvements
