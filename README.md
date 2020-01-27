@@ -49,7 +49,7 @@ _This project is still being developed. The first prototype is a success, howeve
 * Means to decrease noise in voltage detection by Arduino
 * Improved grip
   * Can be made more ergonomic by allowing middle, ring, and pinky fingers to rest on an area
-  * Silicon grip area is wobbly
+  * Silicon grip area is not secured to the grip
 * Improved portability by removing the necessity of a computer
 * Using a storage means different than the Arduino IDE serial monitor to collect data
 
