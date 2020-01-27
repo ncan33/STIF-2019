@@ -21,7 +21,7 @@ _The following is important. **The device is tared by resetting the Arduino**. I
 ## Measurement Unit
 The measurement unit is user defined, and the default unit is pound-force.
 
-_To define new unit:_
+_To define a new unit:_
 1. Pick the desired force unit by editing the Arduino code
 2. Recalibrate by following the steps of **How to calibrate** 
 
