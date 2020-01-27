@@ -7,3 +7,10 @@ After the manufacturing & assembly process, the device must be calibrated otherw
 3. Increase or decrease variable `calibration_factor` in the Arduino code. This will cause a direct change in the readings in the Serial Monitor.
 4. When the readings match the known load, you've successfully calibrated the device.
 5. (optional) Repeat with various loads ranging from 0-10.00 lb to check function.
+
+## Measurement Units
+The units are user defined, default units are pound-force.
+
+_To define new units:_
+1. Pick the desired force unit by editing the Arduino code
+2. Recalibrate by following the steps of **How to calibrate** 
