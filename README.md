@@ -29,13 +29,14 @@ All of the design requirements were met. 3D printed PLA comprises the structure 
 Arduino is used to control the electronics and translate incoming data from the strain gauges. The strain gauges are housed in a half-bridge load cell. Measurement range is between 0 to 49.05 Newtons. Two resistors were used to make a full Wheatstone Bridge.
 
 ## Limitations and Future Improvements
-_This project is still being developed. The first prototype is a success, however I have many ideas on how to improve it.
+_This project is still being developed. The first prototype is a success, however I have many ideas on how to improve it._
 
 ***Current works:***
 * A housing for the electronic parts is being designed. It will be manufactured via 3D print. I will post the .stl file in this repository.
 * Means to update the strain gauge design is being researched.
 
 ***Limitations:***
+
 
 ***Future Improvements:***
 - easier adjustability
