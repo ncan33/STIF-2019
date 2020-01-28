@@ -1,5 +1,5 @@
 # Manufacturing Guide
-The purpose of this document is to provide instructions on how to manufacture and assemble DATAA.
+The purpose of this document is to provide instructions on how to manufacture and assemble S.T.I.F. (Surgery Tool with Integrated Force-gauge).
 
 # Materials and Tools
 This device is comprised of 3D printed PLA and various electronic parts.
