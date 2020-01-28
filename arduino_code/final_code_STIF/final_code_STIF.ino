@@ -7,7 +7,7 @@
 
  This code uses "HX711.h" from the following HX711 library: https://github.com/bogde/HX711
 
- Circuit details for this device can be found at: https://github.com/ncan33/DATAA-2019/tree/master/circuit
+ Circuit details for this device can be found at: https://github.com/ncan33/STIF-2019/tree/master/circuit
 
 */
 
