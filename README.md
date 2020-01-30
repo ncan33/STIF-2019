@@ -23,7 +23,7 @@ Dr. Kotelsky needed a method for measuring force values while inflicting control
   
 ## Design Description
 **Application:**
-Check the [data_analysis folder](https://github.com/ncan33/STIF-2019/tree/master/data_analysis) for test results in the materials testing lab. An MTS machine was used to precisely apply known loads. Data collection was performed. Refer to [this document](https://github.com/ncan33/STIF-2019/blob/master/data_analysis/MATLAB_code_PDF/MTS_data_analysis_01_29_20.pdf) to access Force vs. Digital Output graph, and the 0.998 R-squared value. The graph is extremely linear and the device is proven to be functional with robust data. Repeated MTS test done for reliability-check yielded exactly the same results.
+Check the [data_analysis folder](https://github.com/ncan33/STIF-2019/tree/master/data_analysis) for results acquired in the materials testing lab. An MTS machine was used to precisely apply known loads. Data collection was performed. Refer to [this document](https://github.com/ncan33/STIF-2019/blob/master/data_analysis/MATLAB_code_PDF/MTS_data_analysis_01_29_20.pdf) to access Force vs. Digital Output graph, and the 0.998 R-squared value. The graph is extremely linear and the device is proven to be functional with robust data. Repeated MTS test done for reliability-check yielded exactly the same results.
 
 **Structure and Materials:**
 All of the design requirements were met. 3D printed PLA comprises the structure of the tool due to its fine resolution and robust material properties. The strain gauge is integrated inside the surgical tool, and the device is multifunctional.
