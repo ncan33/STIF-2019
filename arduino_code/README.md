@@ -1,4 +1,4 @@
-## READ THIS
+# READ THIS
 
 ***Main file*** `final_code_STIF.ino` ***uses both folders (*** `HX711_Arduino_Library` ***AND*** `final_code_STIF` ***) in order to work.***
 
