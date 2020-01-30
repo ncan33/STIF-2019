@@ -9,6 +9,8 @@ After the manufacturing & assembly process, the device must be calibrated otherw
 5. (optional) Repeat with various loads ranging from 0-10.00 lb to check function.
 
 ## Tare
+***Tare once before each usage.***
+
 _The following is important. **The device is tared by resetting the Arduino**. IMPORTANT:_
 * ***THE DEVICE MUST BE AT REST IN A VERTICAL POSITION WHEN THE CODE IS UPLOADED***
 * ***THE DEVICE MUST BE AT REST IN A VERTICAL POSITION WHEN IT IS RESET***
