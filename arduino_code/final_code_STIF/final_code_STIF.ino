@@ -15,10 +15,9 @@
 
 
 //IMPORTANT: REFER TO README.md FOR CODE TO WORK PROPERLY. DEVICE NEEDS TO BE CALIBRATED.
-
+//IMPORTANT: For research application, read the special section in README.md
 
 float calibration_factor = 100000; //README.md describes how to calibrate
-//IMPORTANT: For research application, read the special section in README.md
 
 HX711 scale;
 
@@ -37,7 +36,6 @@ void loop() {
   Serial.println();
  
 //IMPORTANT: For research application, removing the unit as a string from the serial print is highly recommended to output only float data.
- 
  
 //Uncomment the next line if you wish to manipulate the sampling rate
 //delay(1000)
