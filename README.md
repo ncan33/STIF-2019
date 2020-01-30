@@ -22,7 +22,7 @@ Dr. Kotelsky needed a method for measuring force values while inflicting control
 * Measure up to 35 Newtons of force
   
 ## Design Description
-**Application**
+**Application:**
 Check the [data_analysis folder](https://github.com/ncan33/STIF-2019/tree/master/data_analysis) for test results in the materials testing lab. An MTS machine was used to precisely apply known loads. Data collection was performed. Refer to [this document](https://github.com/ncan33/STIF-2019/blob/master/data_analysis/MATLAB_code_PDF/MTS_data_analysis_01_29_20.pdf) to access Force vs. Digital Output graph, and the 0.998 R-squared value. The graph is extremely linear and the device is proven to be functional with robust data. Repeated MTS test done for reliability-check yielded exactly the same results.
 
 **Structure and Materials:**
