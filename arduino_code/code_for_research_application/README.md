@@ -4,9 +4,8 @@ After the manufacturing & assembly process, the device must be calibrated otherw
 **How to calibrate:**
 1. Connect the Arduino to computer.
 2. Apply a **known precision load** to the device (example: [perform a materials test](https://github.com/ncan33/STIF-2019/blob/master/visuals/calibration_on_MTS_machine.jpg)).
-3. Record the serial monitor output in data analysis software (i.e. Excel, MATLAB, etc.) for a given load. _Example:_
-4. Record
-5. (optional) Repeat with various loads ranging from 0-10.00 lb to check function.
+3. Record the serial monitor output in data analysis software (i.e. Excel, MATLAB, etc.) for a given load. _Example: collect 250 data points of the serial monitor output at a 30 Newton load._
+4. Repeat with various loads. After you have a satisfactors number of trials in a satisfactory force range, analyze the data.
 
 ## Tare
 _The following is important. **The device is tared by resetting the Arduino**. IMPORTANT:_
