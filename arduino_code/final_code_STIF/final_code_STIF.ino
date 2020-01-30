@@ -18,6 +18,7 @@
 
 
 float calibration_factor = 100000; //README.md describes how to calibrate
+//IMPORTANT: For research application, read the special section in README.md
 
 HX711 scale;
 
@@ -27,12 +28,17 @@ void setup() {
   scale.set_scale(calibration_factor);
   scale.tare();
 
-  Serial.println("Force values:");
+  Serial.println("Readings");
 }
 
 void loop() {
-  Serial.print("Reading: ");
   Serial.print(scale.get_units(), 1);
-  Serial.print(" lbs"); //units are user defined. a redefined unit needs calibration. edit calibration_factor with known weights
+  Serial.print(" lbs"); //units are user defined. redefining units requires calibration. edit variable calibration_factor with known loads.
   Serial.println();
+ 
+//IMPORTANT: For research application, removing the unit as a string from the serial print is highly recommended to output only float data.
+ 
+ 
+//Uncomment the next line if you wish to manipulate the sampling rate
+//delay(1000)
 }
