@@ -28,3 +28,9 @@ _To define a new unit:_
 
 ## Data Collection
 To collect data, launch the Arduino IDE and connect the Arduino to your computer. Upload the code to your Arduino and open the Serial Monitor in the IDE.
+
+## Research Application
+For research application, the quality of the data is far more important than convenience. Therefore, for research application the priority should be to collect good raw data, and perform data analysis afterwards. The following steps can be taken to ensure that the data is the high quality and easy to analyze using MATLAB or Excel.
+* Remove units from serial output
+* Use a lower calibration_factor
+TO BE CONTINUED
