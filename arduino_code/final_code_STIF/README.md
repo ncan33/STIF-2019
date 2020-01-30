@@ -3,7 +3,7 @@ After the manufacturing & assembly process, the device must be calibrated otherw
 
 **How to calibrate:**
 1. Connect the Arduino to computer.
-2. Apply a **known load** to the device (i.e. pperform a materials test]() (recommended) or use a [precision scale](https://images-na.ssl-images-amazon.com/images/I/61YSVHc1hwL._SX425_.jpg) to apply measured loads).
+2. Apply a **known load** to the device (i.e. [perform a materials test](https://github.com/ncan33/STIF-2019/blob/master/visuals/calibration_on_MTS_machine.jpg) (recommended) or use a [precision scale](https://images-na.ssl-images-amazon.com/images/I/61YSVHc1hwL._SX425_.jpg) to apply measured loads).
 3. Increase or decrease variable `calibration_factor` in the Arduino code. This will cause a direct change in the readings in the Serial Monitor.
 4. When the readings match the known load, you've successfully calibrated the device.
 5. (optional) Repeat with various loads ranging from 0-10.00 lb to check function.
