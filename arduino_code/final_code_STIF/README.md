@@ -9,8 +9,6 @@ After the manufacturing & assembly process, the device must be calibrated otherw
 5. (optional) Repeat with various loads ranging from 0-10.00 lb to check function.
 
 ## Tare
-Tare before each usage. Tare more as needed throughout data collection.
-
 _The following is important. **The device is tared by resetting the Arduino**. IMPORTANT:_
 * ***THE DEVICE MUST BE AT REST IN A VERTICAL POSITION WHEN THE CODE IS UPLOADED***
 * ***THE DEVICE MUST BE AT REST IN A VERTICAL POSITION WHEN IT IS RESET***
@@ -18,7 +16,7 @@ _The following is important. **The device is tared by resetting the Arduino**. I
   * Reupload the code, this will automatically restart the arduino
   * Hit the red reset button on the Arduino
   * Cut power supply to the Arduino, then reintroduce it
-
+Tare before each usage. Tare more as needed throughout data collection.
 
 ## Measurement Unit
 The measurement unit is user defined, and the default unit is pound-force.
