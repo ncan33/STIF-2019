@@ -16,6 +16,7 @@ _The following is important. **The device is tared by resetting the Arduino**. I
   * Reupload the code, this will automatically restart the arduino
   * Hit the red reset button on the Arduino
   * Cut power supply to the Arduino, then reintroduce it
+  
 Tare before each usage. Tare more as needed throughout data collection.
 
 ## Measurement Unit
