@@ -16,7 +16,7 @@ _The following is important. **The device is tared by resetting the Arduino**. I
   * Hit the red reset button on the Arduino
   * Cut power supply to the Arduino, then reintroduce it
   
-Tare before each usage. Tare more as needed throughout data collection.
+Tare before each usage. Tare more if needed throughout data collection.
 
 ## Measurement Unit
 The measurement unit is user defined, and the default unit is pound-force.
