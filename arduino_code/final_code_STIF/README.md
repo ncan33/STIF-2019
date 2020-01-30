@@ -32,5 +32,6 @@ To collect data, launch the Arduino IDE and connect the Arduino to your computer
 ## Research Application
 For research application, the quality of the data is far more important than convenience. Therefore, for research application the priority should be to collect good raw data, and perform data analysis afterwards. The following steps can be taken to ensure that the data is the high quality and easy to analyze using MATLAB or Excel.
 * Remove units from serial output
-* Use a lower calibration_factor
-TO BE CONTINUED
+* Use a lower calibration_factor (Recommended: 1000)
+* Calibrate with a precision tool and collect multiple data points
+* Refer to the [data_analysis](https://github.com/ncan33/STIF-2019/tree/master/data_analysis) for an example for data collection with this device and MATLAB analysis.
