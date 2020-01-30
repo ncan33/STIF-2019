@@ -34,5 +34,5 @@ The quality of the data is far more important for research application than conv
 * Remove units from serial output
 * Use a lower calibration_factor (Recommended: 1000)
 * Calibrate with a precision tool and collect multiple data points
-* Refer to the [data_analysis](https://github.com/ncan33/STIF-2019/tree/master/data_analysis) for an example for data collection with this device and MATLAB analysis.
+* Refer to the [data_analysis](https://github.com/ncan33/STIF-2019/tree/master/data_analysis) for an example of data collection with this device and MATLAB analysis.
 This repository has the code that satisfies these requirements. To access the code, refer to the folder [code_for_research_application](https://github.com/ncan33/STIF-2019/tree/master/arduino_code/code_for_research_application).
