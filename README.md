@@ -29,6 +29,7 @@ Dr. Kotelsky needed a method for measuring force values while inflicting control
 * Should be cleaned without damage to the device.
 
 **Safety**
+* Must not cause unwanted injuries to the mouse.
 * Must not use dangerous voltages.
   
 ## Design Description
