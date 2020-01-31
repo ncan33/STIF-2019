@@ -15,6 +15,7 @@ Dr. Kotelsky needed a method for measuring force values while inflicting control
 
 **Reliability**
 * Needs to be accurate up to research standards. The data collected by the device is intended to be published.
+* Voltage output shall not be affected by ambient temperature.
 
 **Dimensions**
 * Needs to have a extruded part through which force will be applied on the mouse, which needs to satisfy the following constraints:
@@ -40,7 +41,7 @@ Check the [data_analysis folder](https://github.com/ncan33/STIF-2019/tree/master
 All of the design requirements were met. 3D printed PLA comprises the structure of the tool due to its fine resolution and robust material properties. The strain gauge is integrated inside the surgical tool, and the device is multifunctional.
 
 **Electronics:**
-Arduino is used to control the electronics and translate incoming data from the strain gauges. The strain gauges are housed in a half-bridge load cell. Measurement range is between 0 to 49.05 Newtons. Two resistors were used to make a full Wheatstone Bridge.
+Arduino is used to control the electronics and translate incoming data from the strain gauges. The strain gauges are housed in a half-bridge load cell. Measurement range is between 0 to 49.05 Newtons. Measurement isn't affected by ambient temperature due to the half-bridge nature of the circuit. Two resistors were used to make a full Wheatstone Bridge.
 
 **Manufacturing Cost:**
 The total cost of the [materials](https://github.com/ncan33/DATAA-2019/tree/master/how_to_assemble#materials-and-tools) is under $75. Currently, 3D printing is commonly accesible at research facilities in developed countries. Thus, with the cost and tools taken into account, this is a device that is easy to manufacture.
