@@ -7,19 +7,25 @@ The strain of the aluminum beam inside the device is measured with two strain ga
 Dr. Kotelsky needed a method for measuring force values while inflicting controlled injuries on mice. Attempts to measure force through non-electronic means were made, however they were unsuccessful.
 
 ## Design Requirements
+**Function**
 * Needs to measure and store force data during surgery.
 * Needs to act both as a force gauge _and_ the surgery tool.
-* Needs to be reliable. The data might be used in a paper.
-* Needs to operated by a human hand.
+* Will be operated by a human hand.
+* Needs to measure up to 35 Newtons of force
+**Reliability**
+* Needs to be accurate up to research standards. The data collected by the device is intended to be published.
+**Dimensions**
 * Needs to have a extruded part through which force will be applied on the mouse, which needs to satisfy the following constraints:
   * Regular hexagon
   * Short diagonal 6.15 mm
+* The grip must be in the shape of the tool previously used to cause the controlled injury.
+**Features**
 * Must be easily operated without any special training.
 * Must have an easy to use interface.
 * Must have a tare function.
-* Must be easily cleaned without damage to the device.
+* Should be cleaned without damage to the device.
+**Safety**
 * Must not use dangerous voltages.
-* Measure up to 35 Newtons of force
   
 ## Design Description
 **Application:**
