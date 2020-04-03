@@ -18,7 +18,7 @@ Dr. Kotelsky needed a method for measuring force values while inflicting control
 * Voltage output shall not be affected by ambient temperature.
 
 **Dimensions**
-* Needs to have a extruded part through which force will be applied on the mouse, which needs to satisfy the following constraints:
+* Needs to have an extruded part through which force will be applied on the mouse, which needs to satisfy the following constraints:
   * Regular hexagon
   * Short diagonal 6.15 mm
 * The grip must be in the shape of the tool previously used to cause the controlled injury.
