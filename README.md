@@ -1,9 +1,9 @@
 # Surgery Tool with Integrated Force-gauge
-
-## [See Technical Report](https://github.com/ncan33/STIF-2019/blob/master/Technical%20Report.pdf)
 This device measures the amount of force applied during controlled injury on mice. The device is used for data collection at a research lab in University of Rochester Medical Center. The CAD files for the 3D printed parts can be edited to achieve applicability for various surgery methods.
 
 The strain of the aluminum beam inside the device is measured with two strain gauges. Arduino was used to control the electronics and translate incoming data from the strain gauge. Since strain is linearly correlated with the amount of force applied, the device can measure the applied force.
+
+## [See Technical Report](https://github.com/ncan33/STIF-2019/blob/master/Technical%20Report.pdf)
 
 ## Problem Scope
 Dr. Kotelsky needed a method for measuring force values while inflicting controlled injuries on mice. Attempts to measure force through non-electronic means were made, however they were unsuccessful.
