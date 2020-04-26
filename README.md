@@ -3,7 +3,7 @@ This device measures the amount of force applied during controlled injury on mic
 
 The strain of the aluminum beam inside the device is measured with two strain gauges. Arduino was used to control the electronics and translate incoming data from the strain gauge. Since strain is linearly correlated with the amount of force applied, the device can measure the applied force.
 
-## [See Technical Report](https://github.com/ncan33/STIF-2019/blob/master/Technical%20Report.pdf)
+# [See Technical Report](https://github.com/ncan33/STIF-2019/blob/master/Technical%20Report.pdf)
 
 ## Problem Scope
 Dr. Kotelsky needed a method for measuring force values while inflicting controlled injuries on mice. Attempts to measure force through non-electronic means were made, however they were unsuccessful.
