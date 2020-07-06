@@ -56,7 +56,7 @@ _This project is still being developed. The first prototype is a success, howeve
 * Means to update the strain gauge design is being researched.
 
 ***Limitations:***
-* Can only measure up to 49.05 Newtons
+* Can only measure up to 98 Newtons
 * Can only be operated by a human
 * Redesigning the device for other surgical applications would take hours of design and manufacturing
 
