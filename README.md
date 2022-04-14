@@ -5,6 +5,11 @@ The strain of the aluminum beam inside the device is measured with two strain ga
 
 **[See Technical Report](https://github.com/ncan33/STIF-2019/blob/master/report.pdf)**
 
+## Instructions
+Download the Arduino IDE for Unix or Windows. In the Arduino IDE, install the [HX711 Ardunio Library](https://www.arduino.cc/reference/en/libraries/hx711-arduino-library/). Go to the `arduino_code/` and read the README. Then, go to the `arduino_code/final_code_STIF/` folder and read that README as well. Download `final_code_STIF.ino` on your computer and run it.
+
+The device at URMC has already been calibrated. For that specific device, you can find the digital output to force conversion in the technical report above (Equation 1).
+
 ## Problem Scope
 A method for measuring force values during controlled injury on mice was needed. Attempts to measure force through non-electronic means were made, however they were unsuccessful.
 
