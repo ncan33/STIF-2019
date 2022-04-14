@@ -6,7 +6,7 @@ The strain of the aluminum beam inside the device is measured with two strain ga
 **[See Technical Report](https://github.com/ncan33/STIF-2019/blob/master/report.pdf)**
 
 ## Problem Scope
-Dr. Kotelsky needed a method for measuring force values while inflicting controlled injuries on mice. Attempts to measure force through non-electronic means were made, however they were unsuccessful.
+A method for measuring force values during controlled injury on mice was needed. Attempts to measure force through non-electronic means were made, however they were unsuccessful.
 
 ## Design Requirements
 **Function**
