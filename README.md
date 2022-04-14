@@ -50,20 +50,20 @@ All of the design requirements were met. 3D printed PLA comprises the structure 
 **Electronics:**
 Arduino is used to control the electronics and translate incoming data from the strain gauges. The strain gauges are housed in a half-bridge load cell. Measurement range is between 0 to 98 Newtons. Measurement isn't affected by ambient temperature due to the half-bridge nature of the circuit. Two resistors were added to make a Wheatstone Bridge.
 
-**Manufacturing Cost:**
-The total cost of the [materials](https://github.com/ncan33/DATAA-2019/tree/master/how_to_assemble#materials-and-tools) is under $75. Currently, 3D printing is commonly accesible at research facilities in developed countries. Thus, with the cost and tools taken into account, this is a device that is easy to manufacture.
+**Prototyping Cost:**
+The total cost of the [materials](https://github.com/ncan33/DATAA-2019/tree/master/how_to_assemble#materials-and-tools) is under $75. Currently, 3D printing is commonly accesible at research facilities in developed countries. Thus, with the cost and tools taken into account, this is a device that is easy to assemble.
 
 ## Limitations and Future Improvements
 _This project is still being developed. The first prototype is a success, however I have many ideas on how to improve it._
 
 ***Current works:***
-* A housing for the electronic parts is being designed. It will be manufactured via 3D print. I will post the .stl file in this repository.
+* A housing for the electronic parts is being designed. It will be fabricated via 3D printing. I will post the .stl file in this repository.
 * Means to update the strain gauge design is being researched.
 
 ***Limitations:***
 * Can only measure up to 98 Newtons
 * Can only be operated by a human
-* Redesigning the device for other surgical applications would take hours of design and manufacturing
+* Redesigning the device for other surgical applications would take hours of design and fabrication
 
 ***Future Improvements:***
 * Easier adjustability
@@ -76,4 +76,4 @@ _This project is still being developed. The first prototype is a success, howeve
 * Using a storage means different than the Arduino IDE serial monitor to collect data
 
 ## Creative Commons License
-This device was designed, manufactured, and assembled by Nejat Can. It is licensed under [CC Attribution-NonCommercial-ShareAlike 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/), so any research lab is allowed to use this repository to manufacture their own surgical force gauge.
+This device was designed, protoyped, fabricated, and assembled by Nejat Can. It is licensed under [CC Attribution-NonCommercial-ShareAlike 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/), so any research lab is allowed to use this repository to manufacture their own surgical force gauge.
