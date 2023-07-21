@@ -1,5 +1,5 @@
 # Surgery Tool with Integrated Force-gauge
-This device measures the amount of force applied during controlled injury on mice. The CAD files for the 3D printed parts can be edited to achieve applicability for various surgery methods.
+This device measures the amount of force applied during controlled injury on mice. The CAD files for the 3D printed parts can be modified to achieve applicability for various surgery methods.
 
 The strain of the aluminum beam inside the device is measured with two strain gauges. Arduino was used to control the electronics and translate incoming data from the strain gauge. Since strain is linearly correlated with the amount of force applied, the device can measure the applied force.
 
