@@ -1,5 +1,5 @@
 # Surgery Tool with Integrated Force-gauge
-This device measures the amount of force applied during controlled injury on mice. The device is used for data collection at a research lab in University of Rochester Medical Center. The CAD files for the 3D printed parts can be edited to achieve applicability for various surgery methods.
+This device measures the amount of force applied during controlled injury on mice. The CAD files for the 3D printed parts can be edited to achieve applicability for various surgery methods.
 
 The strain of the aluminum beam inside the device is measured with two strain gauges. Arduino was used to control the electronics and translate incoming data from the strain gauge. Since strain is linearly correlated with the amount of force applied, the device can measure the applied force.
 
@@ -8,7 +8,7 @@ The strain of the aluminum beam inside the device is measured with two strain ga
 ## Instructions
 Download the Arduino IDE for Unix or Windows. In the Arduino IDE, install the [HX711 Ardunio Library](https://www.arduino.cc/reference/en/libraries/hx711-arduino-library/). Go to the `arduino_code/` and read the README. Then, go to the `arduino_code/final_code_STIF/` folder and read that README as well. Download `final_code_STIF.ino` on your computer and run it.
 
-The device at URMC has already been calibrated. For that specific device, you can find the digital output to force conversion in the technical report above (Equation 1).
+Our device at URMC has already been calibrated. For that specific device, you can find the digital output to force conversion in the technical report above (Equation 1). You will need to calibrate your own device, since each strain gauge is unique.
 
 ## Problem Scope
 A method for measuring force values during controlled injury on mice was needed. Attempts to measure force through non-electronic means were made, however they were unsuccessful.
